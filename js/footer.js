@@ -33,7 +33,7 @@ function Footer () {
                         </a> \
                     </div> \
                     <div class="heif-download-content-link"> \
-                        <a href="https://github.com/nokiatech/heif"> \
+                        <a href="https://github.com/nokiatech/heif/tree/gh-pages/js"> \
                             <span class="glyphicon glyphicon-download"></span> HEIF Reader JavaScript Implementation at GitHub\
                         </a> \
                     </div> \
